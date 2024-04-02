@@ -1,0 +1,7 @@
+node_modules/
+.cache
+.parcel-cache
+dist/
+notes.md
+scripts/deploy.sh
+.DS_Store
